@@ -3,7 +3,8 @@ A simple REST API to save and access and record Quizzes.
 
 Description
 ------------
-A project from the JetBrains Hyperskill academy. See the link for more details https://hyperskill.org/projects/91/
+https://hyperskill.org/projects/91/
+A project from the JetBrains Hyperskill academy.
 
 This program can save quizzes and answers to a repository of choice (H2 is being implemented in this current version), and uses Spring Security to secure the API endpoints to only registered users. The following below are the functions of the engine:
 
@@ -44,11 +45,12 @@ This endpoint allows the author of the quiz to be able to delete the quiz from t
 Technologies
 ------------
 Built using:
-Language: Java
-Frameworks: Spring Boot, Spring MVC, Spring JPA, and Spring Security
-ORM: Hibernate
-Database: H2
-Build Tool: Gradle
+
+*Language: Java
+*Frameworks: Spring Boot, Spring MVC, Spring JPA, and Spring Security
+*ORM: Hibernate
+*Database: H2
+*Build Tool: Gradle
 
 
 Roadmap
